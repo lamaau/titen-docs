@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklamaau=self.webpackChunklamaau||[]).push([[2967],{9136:function(a){a.exports=JSON.parse('{"label":"facebook","permalink":"/codegoen/blog/tags/facebook","allTagsPath":"/codegoen/blog/tags","count":1}')}}]);
